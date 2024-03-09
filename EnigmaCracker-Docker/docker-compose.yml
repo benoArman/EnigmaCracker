@@ -3,6 +3,6 @@ services:
   enigmacracker:
     build: .
     environment:
-      - ETHERSCAN_API_KEY=your_etherscan_api_key
+      - ETHERSCAN_API_KEY=P423XURJI753FH92BRUDVWK6KVCF52Q3QA
     volumes:
       - ./data:/usr/src/app/data
